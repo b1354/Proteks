@@ -6,7 +6,7 @@ int main()
 {
   int nilai;
 
-  cout << "masukan nilain anda: ";
+  cout << "masukan nilai anda: ";
   cin >> nilai;
 
   if(nilai>=85 && nilai<=100)  {
